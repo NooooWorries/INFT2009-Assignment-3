@@ -1,0 +1,51 @@
+C:\Users\QuangTrung\Desktop\Application\NoTreal\bin\Debug\Application.exe.config
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\NoTreal.applicationFrm.resources
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\NoTreal.englishtestFrm.resources
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\NoTreal.qualificationFrm.resources
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\Application.Properties.Resources.resources
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\QuangTrung\Desktop\Application\NoTreal\bin\Debug\NoTreal.exe.config
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\NoTreal.exe
+C:\Users\QuangTrung\Desktop\Application\NoTreal\obj\Debug\NoTreal.pdb
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\bin\Debug\NoTreal.exe.config
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\NoTreal.exe
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\NoTreal.pdb
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\bin\Debug\Application.exe.config
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\NoTreal.applicationFrm.resources
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\NoTreal.englishtestFrm.resources
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\NoTreal.qualificationFrm.resources
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\Application.Properties.Resources.resources
+C:\Users\QuangTrung\Desktop\NoTreal\NoTreal\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\QuangTrung\Desktop\NoTreal\Application\bin\Debug\NoTreal.exe.config
+C:\Users\QuangTrung\Desktop\NoTreal\Application\obj\Debug\NoTreal.exe
+C:\Users\QuangTrung\Desktop\NoTreal\Application\obj\Debug\NoTreal.pdb
+C:\Users\Administrator\Desktop\NoTreal\Application\bin\Debug\NoTreal.exe.config
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.exe
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.pdb
+C:\Users\Administrator\Desktop\NoTreal\Application\bin\Debug\NoTreal.exe
+C:\Users\Administrator\Desktop\NoTreal\Application\bin\Debug\NoTreal.pdb
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.applicationFrm.resources
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.englishtestFrm.resources
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.qualificationFrm.resources
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.showApplications.resources
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NoTreal\Application\obj\Debug\NoTreal.main.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\bin\Debug\NoTreal.exe.config
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.exe
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.pdb
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\bin\Debug\NoTreal.exe
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\bin\Debug\NoTreal.pdb
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.applicationFrm.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.englishtestFrm.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.main.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.qualificationFrm.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.showApplications.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.frmUpdateFinalGrade.resources
+C:\Users\Administrator\Desktop\Assignment\INFT2009 System Modelling\Case study Task3\NoTreal\Application\obj\Debug\NoTreal.EnrolmentForm.resources
